@@ -12,5 +12,5 @@ function noDuplicate(array){
         
         return unique;
 }
-const uniqueArray = noDuplicate(number);
+const uniqueArray = noDuplicate(number  );
 console.log(uniqueArray)
