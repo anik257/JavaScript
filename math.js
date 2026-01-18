@@ -8,3 +8,4 @@ console.log(Math.PI);
 console.log(Math.abs(100-70));
 console.log(Math.round(2.25))
 console.log(Math.round(2.78))
+console.log(Math.floor(2.98))
